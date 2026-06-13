@@ -37,7 +37,7 @@ Practicar consultas SQL para:
 
 ## Autor
 
-Entrega realizada por [Tu Nombre].
+Entrega realizada por Christian Velazquez.
 
 ## Notas
 
